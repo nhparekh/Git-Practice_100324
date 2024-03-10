@@ -1,7 +1,7 @@
 
     public class Test_Git {
-        static int w = 6;
-        static int l = 6;
+        static int w = 8;
+        static int l = 4;
         static double a = w * l;
 
         public static void main(String[] args) {
